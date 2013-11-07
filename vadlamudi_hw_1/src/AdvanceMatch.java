@@ -1,5 +1,5 @@
 // Name: Sai Kiran Vadlamudi		Username: svadlamudi		Section: B01
-// Name: Marilda Bozdo				Username: mbozdo			Section: B06
+// Name: Marilda Bozdo				Username: mbozdo			Section: B07
 
 public class AdvanceMatch implements ITournament{
 	
